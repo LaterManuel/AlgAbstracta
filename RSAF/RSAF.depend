@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1657243132 source:c:\users\itsma\documents\alg. abstractas\rsaf\main.cpp
+	"RSA/RSA.h"
+
+1625237748 c:\users\itsma\documents\alg. abstractas\rsaf\rsa\rsa.h
+	"../Functions/BigMath.h"
+
+1657242990 c:\users\itsma\documents\alg. abstractas\rsaf\functions\bigmath.h
+	<tuple>
+	<stdlib.h>
+	<time.h>
+	<NTL/mat_ZZ.h>
+	<string>
+	<sstream>
+	<chrono>
+
+1657242990 source:c:\users\itsma\documents\alg. abstractas\rsaf\functions\bigmath.cpp
+	"BigMath.h"
+
+1657243104 source:c:\users\itsma\documents\alg. abstractas\rsaf\rsa\rsa.cpp
+	"RSA.h"
+
