@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1637800981 source:d:\gabriel\programming projects\codeblocks projects\rsa romper clave\rsa con ntl\main.cpp
+	"RSA.h"
+
+1637800096 d:\gabriel\programming projects\codeblocks projects\rsa romper clave\rsa con ntl\rsa.h
+	<iostream>
+	"Funciones.h"
+
+1637799851 d:\gabriel\programming projects\codeblocks projects\rsa romper clave\rsa con ntl\funciones.h
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<vector>
+	<cmath>
+	<NTL/ZZ.h>
+
+1637800723 source:d:\gabriel\programming projects\codeblocks projects\rsa romper clave\rsa con ntl\funciones.cpp
+	"Funciones.h"
+
+1637800105 source:d:\gabriel\programming projects\codeblocks projects\rsa romper clave\rsa con ntl\rsa.cpp
+	"RSA.h"
+
+1657075375 source:c:\users\itsma\documents\alg. abstractas\rsa_ntl\rsa con ntl\main.cpp
+	"RSA.h"
+
+1637806603 c:\users\itsma\documents\alg. abstractas\rsa_ntl\rsa con ntl\rsa.h
+	<iostream>
+	"Funciones.h"
+
+1657074758 c:\users\itsma\documents\alg. abstractas\rsa_ntl\rsa con ntl\funciones.h
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<vector>
+	<cmath>
+	<NTL/ZZ.h>
+
+1657074757 source:c:\users\itsma\documents\alg. abstractas\rsa_ntl\rsa con ntl\funciones.cpp
+	"Funciones.h"
+
+1637806603 source:c:\users\itsma\documents\alg. abstractas\rsa_ntl\rsa con ntl\rsa.cpp
+	"RSA.h"
+

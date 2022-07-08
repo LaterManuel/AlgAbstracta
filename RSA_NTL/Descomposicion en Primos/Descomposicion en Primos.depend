@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637799082 source:d:\gabriel\programming projects\codeblocks projects\rsa romper clave\descomposicion en primos\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<NTL/ZZ.h>
+
