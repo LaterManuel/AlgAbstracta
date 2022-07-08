@@ -1,0 +1,1 @@
+Se realizó Miller Rabin haciendo uso de la libreria NTL/ZZ.h que nos permite poder manejar numeros de muchos bits.
